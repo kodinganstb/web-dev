@@ -4,7 +4,7 @@ Repository untuk belajar seputar Pengembangan Website dari Front End, Back End d
 <b>Website</b> <br>
 >> <a href="https://w3schools.com" target="_blank">W3SCHOOLS</a>, <a href="https://freecodecamp.com" target="_blank">FreeCodeCamp</a>, <a href="https://sololearn.com" target="_blank">Solo Learn</a> <br>
 
-YouTube Channel <br>
+<b>YouTube Channel</b> <br>
 >> <a href="https://youtube.com/webprogrammingunpas">Web Programming UNPAS</a>, <a href="https://www.youtube.com/c/ProgrammerZamanNow">Programmer Zaman Now</a>
 
 ### Komponen Penyusun Website
