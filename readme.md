@@ -9,3 +9,6 @@ Repository untuk belajar seputar Pengembangan Website dari Front End, Back End d
 
 ### Komponen Penyusun Website
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css&logoColor=skyblue" /> <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=html&logoColor=yellow" />
+<br><br><br>
+## Framework (Kerangka Kerja)
+### Berfungsi agar penulisan syntax menjadi lebih singkat dengan hasil yang sama
