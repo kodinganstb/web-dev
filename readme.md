@@ -7,5 +7,5 @@ Repository untuk belajar seputar Pengembangan Website dari Front End, Back End d
 ~ <a href="https://youtube.com/webprogrammingunpas">Web Programming UNPAS</a>
 <br><br>
 ### Komponen Penyusun Website
-<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=fff" />
-<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff" />
+<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=skyblue" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=html&logoColor=yellow" />
+12
