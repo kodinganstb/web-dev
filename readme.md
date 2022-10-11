@@ -6,7 +6,7 @@ Sebuah website biasanya disusun oleh <b>HTML</b> sebagai struktur dasar, <b>CSS<
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css&logoColor=skyblue" /> <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=html&logoColor=yellow" />
 <br><br><br>
 ## Framework (Kerangka Kerja)
-Berfungsi agar penulisan syntax menjadi lebih singkat dengan hasil yang sama
+Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil yang sama.
 
 ### Referensi Belajar Web Development <br>
 <b>Website</b> <br>
