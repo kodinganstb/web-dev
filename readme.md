@@ -1,6 +1,9 @@
 # Web Development Repository
 Repository untuk belajar seputar Pengembangan Website dari Front End, Back End dan Dev Ops. Fullstack maybe :)
 
+### Daftar Isi
+>> example
+
 ## Komponen Penyusun Website
 Sebuah website biasanya disusun oleh <b>HTML</b> sebagai struktur dasar, <b>CSS</b> sebagai elemen pen-desainnya dan <b>Javascript</b> agar website menjadi lebih interaktif. <br><br>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css&logoColor=skyblue" /> <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=html&logoColor=yellow" />
