@@ -16,19 +16,11 @@ Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil
 >> <a href="https://youtube.com/webprogrammingunpas">Web Programming UNPAS</a>, <a href="https://www.youtube.com/c/ProgrammerZamanNow">Programmer Zaman Now</a>
 
 ### Referensi Channel YouTube Programming
+<b>General</b>
+>> Web Programming UNPAS, Yuk Coding Media, IDStack, Aden Rachmandi
 
-
-=> General
- - Web Programming UNPAS
- - Yuk Coding Media
- - IDStack
- - Aden Rachmandi
-
-=> FrontEnd
- - Arrayid
- - Balademy
- - Prawito Hudoro
- - Wahidev Academy
+<b>FrontEnd</b>
+ >> Arrayid, Balademy, Prawito Hudoro, Wahidev Academy
 
 => BackEnd
  - Kelas Terbuka
