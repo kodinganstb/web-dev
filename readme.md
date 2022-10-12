@@ -7,7 +7,6 @@ Sebuah website biasanya disusun oleh <b>HTML</b> sebagai struktur dasar, <b>CSS<
 <br><br><br>
 ## Framework (Kerangka Kerja)
 Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil yang sama.
-<a href="#referensi-channel-youtube-programming">Jump</a>
 
 ### Referensi Belajar Web Development <br>
 <b>Website</b> <br>
