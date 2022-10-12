@@ -2,7 +2,8 @@
 Repository untuk belajar seputar Pengembangan Website dari Front End, Back End dan Dev Ops. Fullstack maybe :)
 
 ### Daftar Isi
->> 1.1 <a href="#komponen-penyusun-website">Komponen Penyusun Website</a> 1.2 <a href="">Framework (Kerangka Kerja)</a>
+>> 1.1 <a href="#komponen-penyusun-website">Komponen Penyusun Website</a> <br>
+>> 1.2 <a href="#framework-kerangka-kerja">Framework (Kerangka Kerja)</a>
 
 ## Komponen Penyusun Website
 Sebuah website biasanya disusun oleh <b>HTML</b> sebagai struktur dasar, <b>CSS</b> sebagai elemen pen-desainnya dan <b>Javascript</b> agar website menjadi lebih interaktif. <br><br>
