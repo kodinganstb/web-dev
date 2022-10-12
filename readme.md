@@ -14,3 +14,62 @@ Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil
 
 <b>YouTube Channel</b> <br>
 >> <a href="https://youtube.com/webprogrammingunpas">Web Programming UNPAS</a>, <a href="https://www.youtube.com/c/ProgrammerZamanNow">Programmer Zaman Now</a>
+
+## Referensi Channel YouTube Programming
+### REFERENSI CHANNEL YOUTUBE PROGRAMMING
+
+=> General
+ - Web Programming UNPAS
+ - Yuk Coding Media
+ - IDStack
+ - Aden Rachmandi
+
+=> FrontEnd
+ - Arrayid
+ - Balademy
+ - Prawito Hudoro
+ - Wahidev Academy
+
+=> BackEnd
+ - Kelas Terbuka
+ - Programmer Zaman Now
+ - Kawan Koding
+ - Parsinta
+ - VIP Code Studio
+ - Agung Setiawan
+
+=> Data Science / AI / ML
+ - Indonesia Belajar
+ - Mega Bagus Herlambang
+ - Sunu wibirama
+
+=> Mobile App Development
+ - Erico Darmawan Handoyo
+ - Lazday Indonesia
+ - Robby Dianputra
+
+=> Cloud & DevOps
+ - Cloud Engineering with Imre
+ - Giri Kuncoro
+ - Iqbal Syamil
+
+=> Cyber Security & Computer Network
+ - Onno Center
+ - Keamanan Siber
+ - Doddy Ferdiansyah
+
+=> Game development
+ - Kajew Developer
+ - Livander Gamdev
+ - Andy Lukito
+ - Budi raharjo
+ - upkoding
+
+=> Live Coding
+ - Riza Fahmi
+ - i Did IT - Koding Aja Dulu
+ - resir014
+
+=> Podcast /interview
+ - Insinyur Online
+ - Design Chit-Chat with Borrys Hasian
