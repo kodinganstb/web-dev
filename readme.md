@@ -37,7 +37,7 @@ Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil
 <b>Cyber Security & Computer Network</b>
 >> Onno Center, Keamanan Siber, Doddy Ferdiansyah
 
-<b>Game development</b>
+<b>Game Development</b>
 >> Kajew Developer, Livander Gamdev, Andy Lukito, Budi Raharjo, upkoding
 
 <b>Live Coding</b>
