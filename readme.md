@@ -19,49 +19,29 @@ Digunakan dengan fungsi agar penulisan syntax menjadi lebih singkat dengan hasil
 <b>General</b>
 >> Web Programming UNPAS, Yuk Coding Media, IDStack, Aden Rachmandi
 
-<b>FrontEnd</b>
+<b>Front End</b>
  >> Arrayid, Balademy, Prawito Hudoro, Wahidev Academy
 
-=> BackEnd
- - Kelas Terbuka
- - Programmer Zaman Now
- - Kawan Koding
- - Parsinta
- - VIP Code Studio
- - Agung Setiawan
+<b>Back End</b>
+>> Kelas Terbuka, Programmer Zaman Now, Kawan Koding, Parsinta, VIP Code Studio, Agung Setiawan
 
-=> Data Science / AI / ML
- - Indonesia Belajar
- - Mega Bagus Herlambang
- - Sunu wibirama
+<b>Data Science / AI / ML</b>
+>> Indonesia Belajar, Mega Bagus Herlambang, Sunu wibirama
 
-=> Mobile App Development
- - Erico Darmawan Handoyo
- - Lazday Indonesia
- - Robby Dianputra
+<b>Mobile App Development</b>
+>> Erico Darmawan Handoyo, Lazday Indonesia, Robby Dianputra
 
-=> Cloud & DevOps
- - Cloud Engineering with Imre
- - Giri Kuncoro
- - Iqbal Syamil
+<b>Cloud & DevOps</b>
+>> Cloud Engineering with Imre, Giri Kuncoro, Iqbal Syamil
 
-=> Cyber Security & Computer Network
- - Onno Center
- - Keamanan Siber
- - Doddy Ferdiansyah
+<b>Cyber Security & Computer Network</b>
+>> Onno Center, Keamanan Siber, Doddy Ferdiansyah
 
-=> Game development
- - Kajew Developer
- - Livander Gamdev
- - Andy Lukito
- - Budi raharjo
- - upkoding
+<b>Game development</b>
+>> Kajew Developer, Livander Gamdev, Andy Lukito, Budi Raharjo, upkoding
 
-=> Live Coding
- - Riza Fahmi
- - i Did IT - Koding Aja Dulu
- - resir014
+<b>Live Coding</b>
+ >> Riza Fahmi, i Did IT - Koding Aja Dulu, resir014
 
-=> Podcast /interview
- - Insinyur Online
- - Design Chit-Chat with Borrys Hasian
+<b>Podcast /interview</b>
+>> Insinyur Online, Design Chit-Chat with Borrys Hasian
